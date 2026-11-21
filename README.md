@@ -1,4 +1,5 @@
-## MediTrack : Medication Tracker Offline and Online Based Applications (ProtoType)
+## MediTrack (Prototype)
+Offline-first medication reminder and tracker prototype featuring secure authentication, local scheduled notifications, and daily dose logging. Built with asynchronous background sync, it ensures full functionality without an internet connection and seamlessly updates cloud data once back online.
 
 ![MediTrack-cover](assets/diagrams/Apps-porto.png)
 
